@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrgTq+9BED+7xOCDbGSWY62hWUz9r4EtVX/zOChud+QeweSNGX1EeYk3XSRE30EG0PuvYALTS2yByH1AjerDaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\17 april\\Serialize_deserialize\\Serialize_deserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

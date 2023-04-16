@@ -1,0 +1,17 @@
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\bin\Debug\net6.0\Serialize_deserialize.exe
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\bin\Debug\net6.0\Serialize_deserialize.deps.json
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\bin\Debug\net6.0\Serialize_deserialize.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\bin\Debug\net6.0\Serialize_deserialize.dll
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\bin\Debug\net6.0\Serialize_deserialize.pdb
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.dll
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\refint\Serialize_deserialize.dll
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.pdb
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\Serialize_deserialize.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\17 april\Serialize_deserialize\obj\Debug\net6.0\ref\Serialize_deserialize.dll
